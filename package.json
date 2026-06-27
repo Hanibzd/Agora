@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "description": "AutoDemo — every release publishes its own video, automatically. Reads the UI diff, reproduces the changed interface 1:1 in Remotion, animates the new element, renders an MP4.",
-  "packageManager": "pnpm@10.5.2",
+  "packageManager": "pnpm@11.9.0",
   "engines": {
     "node": ">=20"
   },
