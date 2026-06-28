@@ -165,3 +165,7 @@ pnpm feature-rec:selftest
 
 For detailed Feature-Rec setup, permissions, and smoke checks, read
 [`docs/feature-rec.md`](docs/feature-rec.md).
+
+## Roadmap
+
+Remotion will be replaced with an in-house solution we are currently building.
